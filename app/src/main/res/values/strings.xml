@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VIT Workshop</string>
+
+    <string name="title_section1">Featured workshops</string>
+    <string name="title_section2">Computer Science</string>
+    <string name="title_section3">Electronics</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a
+        galley of type and scrambled it to make a type specimen book.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration_form">Registration form</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
